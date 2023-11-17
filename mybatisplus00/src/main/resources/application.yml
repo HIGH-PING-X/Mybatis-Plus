@@ -12,3 +12,4 @@ mybatis-plus:
     #db-config:
       #table-prefix:
   type-aliases-package: games.highping.mybatisplus00.bean
+  type-enums-package: games.highping.mybatisplus00.enums
